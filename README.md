@@ -23,7 +23,7 @@ Project created by <a href="https://github.com/farook-kollam">farook-kollam</a> 
     <img src="https://img.shields.io/github/repo-size/farook-kollam/jewel?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
 <a href="https://github.com/Gogetago/Tesa"><img title="Followers" src="https://img.shields.io/github/followers/farook-kollam?color=f7df1e&style=flat-square"></a>
-<a href="https://github.com/farook-kollam/jewel/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/farook-kollam/jewel?color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/Gogetago/Tesa/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/farook-kollam/jewel?color=f7df1e&style=flat-square"></a>
 <a href="https://github.com/farook-kollam/jewel/network/members"><img title="Forks" src="https://img.shields.io/github/forks/farook-kollam/jewel?color=f7df1e&style=flat-square"></a>
 <a href="https://github.com/farook-kollam/jewel/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/farook-kollam/jewel?label=Watchers&color=f7df1e&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-f7df1e.svg"</a>
